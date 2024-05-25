@@ -131,11 +131,15 @@ You can deploy this application on Azure Container Instances for a scalable and 
 
 while Uploading
 
+![331741885-ffb2e8bc-b188-4da2-8308-0696d9be7ef5](https://github.com/Hajar-Ghazi/RespirationRate-Container/assets/149796526/f4135ac7-8970-4d67-8052-8b8d7b15960f)
+
 
 
 
 
 The results
+
+![331742047-5c15c464-f5ac-4a18-8d8d-8927df4b3779](https://github.com/Hajar-Ghazi/RespirationRate-Container/assets/149796526/a2177cb5-2ba5-4191-801d-cc8c6f4f2f85)
 
 
 
